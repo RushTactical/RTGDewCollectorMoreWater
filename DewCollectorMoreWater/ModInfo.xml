@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-    <Name value="dewcollectormorewater"/>
+    <Name value="RTGDewCollectorMoreWater"/>
     <DisplayName value="Dew Collector More Water"/>  
     <Description value="This mod adds more water to the collection in the dew collector"/>
     <Author value="Rush"/>
