@@ -1,0 +1,3 @@
+Key,english
+RTGCollectedWater,Box of Water
+RTGCollectedWaterDesc,A box with jars of water.
