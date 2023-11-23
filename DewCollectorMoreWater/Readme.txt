@@ -6,4 +6,4 @@ Installation: Unzip the download file "RTGDewCollectorMoreWater" and place the f
 
 Enjoy!!!
 
-Mod Version: 0.0.1
+Mod Version: 0.0.2
